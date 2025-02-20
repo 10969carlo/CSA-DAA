@@ -1,5 +1,5 @@
 # StackDemo - Valid Parentheses Check
-
+# Asciinema: https://asciinema.org/a/704412
 ## Overview
 
 This Java program demonstrates how to check if a string containing parentheses (`()`, `{}`, `[]`) is valid. The string is considered valid if:
