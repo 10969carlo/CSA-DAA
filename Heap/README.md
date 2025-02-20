@@ -1,5 +1,5 @@
 # LinkedListDemo - Cycle Detection in Linked List
-
+# Asciinema: https://asciinema.org/a/704414
 ## Overview
 
 This Java program demonstrates the detection of a cycle in a linked list using Floyd's Cycle-Finding Algorithm (also known as the Tortoise and Hare Algorithm). It checks whether a linked list contains a cycle by using two pointers: a slow pointer and a fast pointer.
