@@ -1,5 +1,5 @@
 # TreesDemo - Lowest Common Ancestor in a Binary Search Tree
-
+# Asciinema: https://asciinema.org/a/704418
 ## Overview
 
 This Java program demonstrates how to find the **Lowest Common Ancestor (LCA)** of two nodes in a **Binary Search Tree (BST)**. The **LCA** of two nodes `p` and `q` is defined as the lowest node in the tree that has both `p` and `q` as descendants.
